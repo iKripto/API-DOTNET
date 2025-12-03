@@ -4,6 +4,8 @@ Este repositório contém meus estudos, exercícios e projetos desenvolvidos dur
 
 O objetivo é registrar meu aprendizado e servir como base para projetos futuros em ASP.NET Core.
 
+https://learn.microsoft.com/pt-br/training/paths/aspnet-core-web-app
+
 ---
 
 ## 📚 Sobre o curso
